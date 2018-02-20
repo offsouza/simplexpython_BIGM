@@ -3,7 +3,7 @@
 Created on Thu Dec 07 18:30:03 2017
 
 @author: Otávio Felipe Ferreira de Souza 
-Matricula: 130916
+
 
 """
 import numpy as np
